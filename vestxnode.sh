@@ -26,8 +26,8 @@ masternodeprivkey=${masternodegenkey}
 }
 
 # lets install and get the Spectrum daemon
-wget https://github.com/validsyntax1012/Vestx/raw/master/vestxd
-wget https://github.com/validsyntax1012/Vestx/raw/master/vestx-cli
+wget https://github.com/validsyntax1012/VestxStuff/raw/master/vestxd
+wget https://github.com/validsyntax1012/VestxStuff/raw/master/vestx-cli
 chmod +x vestxd
 chmod +x vestx-cli
 mv vestxd /usr/local/bin
