@@ -1,10 +1,3 @@
-log into you vps from a terminail 
-
-issue command:
-
-pico vestxnode.sh
-
-right click and paste the following code 
 
 #! /bin/bash
 
