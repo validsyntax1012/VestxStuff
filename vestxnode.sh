@@ -1,6 +1,5 @@
 
 #! /bin/bash
-
 ## Definitions 
 #define port 
 port=20000
