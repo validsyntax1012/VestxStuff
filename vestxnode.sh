@@ -4,7 +4,6 @@
 ## Definitions 
 #define port 
 port=20000
-
 get_ip () {
 # Get server primary IPv4 address
 ipaddress=$(curl ipinfo.io/ip)
